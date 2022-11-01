@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Langley</string>
+    <string name="addProduct">Agrege un Producto:</string>
+    <string name="productCode">Codigo:</string>
+    <string name="ProdCodigo">Codigo de producto</string>
+    <string name="ProdName">nombre del producto</string>
+    <string name="ProdPrice">Precio unitario</string>
+    <string name="ProdQuantity">Cantidad</string>
+    <string name="ProdMarc">"Marca: "</string>
+    <string name="ProdCategory">Categoria:</string>
+    <string name="ProdProveedor">Proveedor:</string>
+    <string name="ProdVenc">Vencimiento:</string>
+    <string name="ProdVenci">Fecha de vencimiento</string>
+    <string name="ProdAdd">Agregar</string>
+    <string-array name="spinOptions">
+        <item>Gloria</item>
+        <item>Tottus</item>
+        <item>Alicorp</item>
+        <item>Angel</item>
+        <item>Backus</item>
+    </string-array>
+    <string-array name="spinCategoria">
+        <item>Abarrotes</item>
+        <item>Lacteos</item>
+        <item>Cereales</item>
+        <item>Embutidos</item>
+        <item>Menestras</item>
+    </string-array>
+    <string-array name="spinProveedor">
+        <item>Plaza Vea</item>
+        <item>Mass</item>
+        <item>Macro</item>
+        <item>Vega</item>
+        <item>Ripley</item>
+        <item>Wong</item>
+        <item>Mercado Central</item>
+        <item>Cachina</item>
+    </string-array>
+</resources>
